@@ -1,32 +1,36 @@
 # Node-Redis
 
-### A simple demo of using **Redis** with **Node.js** and **Express.js**.<br/><br/>
+#### A simple demo of using **Redis** with **Node.js** and **Express.js**.<br/><br/>
 
 # Getting started
 
-### If you don't have **Node.js** installed on your machine you can download it from [Here](https://nodejs.org/en/).
+### Installing Node.js
+
+#### If you don't have **Node.js** installed on your machine you can download it from [Here](https://nodejs.org/en/).
 
 <br/>
 
-### If you don't have **Redis** installed on your machine you can download it from **[Here](https://redis.io/download)** for **macOS and Linux**<br/>
+### Installing Redis
 
-### OR from **[Here](https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi)** for **Windows**.<br/><br/>
+#### If you don't have **Redis** installed on your machine you can download it from **[Here](https://redis.io/download)** for **macOS and Linux**<br/>
+
+#### OR from **[Here](https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi)** for **Windows**.<br/><br/>
 
 ### clone this repository by running the following line in your Terminal.
 
-### `git clone https://github.com/AbdHussein/Node-Redis.git`
+#### `git clone https://github.com/AbdHussein/Node-Redis.git`
 
 <br/>
 
 ### move to the repository folder by running the following command.
 
-### `cd Node-Redis`
+#### `cd Node-Redis`
 
 <br/>
 
 ### To install the required packages
 
-### `npm install`
+#### `npm install`
 
 <br/>
 <br/>
@@ -35,7 +39,7 @@
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app on your local machine.<br />
 Open `http://localhost:5000/repos/{anyGitHubAccount}` to see How many public repositories does this account have.<br />
